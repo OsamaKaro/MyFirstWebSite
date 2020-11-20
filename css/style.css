@@ -13,6 +13,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 0 8px;
+      opacity: 0.3;
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ee/Grumpy_Cat_by_Gage_Skidmore.jpg");
     color: #000000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
