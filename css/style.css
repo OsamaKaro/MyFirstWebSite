@@ -31,13 +31,13 @@ nav a:link,
 nav a:visited {
     text-decoration: none;
     padding: 0.5rem;
-    background-color: #802808;
+    background-color: red;
     color: #ebe6dc;
 }
 
 nav a:hover,
 nav a:active {
-    background-color: #b1461f;
+    background-color: pink;
     color: #dfb666;
 }
 #thisPage {
