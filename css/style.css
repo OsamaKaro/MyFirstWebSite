@@ -54,7 +54,7 @@ h2 {
 }
 
 h1 {
-    border-bottom: 4px double #802808;
+    border-bottom: 4px dotted #802808;
     font-style: italic;
     font-size: 3rem;
     text-align: center;
