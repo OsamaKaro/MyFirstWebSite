@@ -13,7 +13,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 0 8px;
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ee/Grumpy_Cat_by_Gage_Skidmore.jpg");
+    background-color: #eeeadd;
     color: #000000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -31,13 +31,13 @@ nav a:link,
 nav a:visited {
     text-decoration: none;
     padding: 0.5rem;
-    background-color: red;
+    background-color: #802808;
     color: #ebe6dc;
 }
 
 nav a:hover,
 nav a:active {
-    background-color: pink;
+    background-color: #b1461f;
     color: #dfb666;
 }
 #thisPage {
@@ -46,15 +46,13 @@ nav a:active {
 }
 
 h1,
+h2,
 h3 {
-    color: blue;
-}
-h2 {
-    color: red;
+    color: #802808;
 }
 
 h1 {
-    border-bottom: 4px dotted #802808;
+    border-bottom: 4px double #802808;
     font-style: italic;
     font-size: 3rem;
     text-align: center;
