@@ -37,7 +37,7 @@ nav a:visited {
 
 nav a:hover,
 nav a:active {
-    background-color: #b1461f;
+    background-color: black;
     color: #dfb666;
 }
 #thisPage {
