@@ -31,7 +31,7 @@ nav a:link,
 nav a:visited {
     text-decoration: none;
     padding: 0.5rem;
-    background-color: #802808;
+    background-color: Red;
     color: #ebe6dc;
 }
 
