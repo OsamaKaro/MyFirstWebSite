@@ -23,9 +23,9 @@ nav ul {
     list-style: none;
 }
 
-//nav li {
-  //  display: inline;
-//}
+nav li {
+  display: inline;
+}
 
 nav a:link,
 nav a:visited {
